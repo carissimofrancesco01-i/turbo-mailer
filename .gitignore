@@ -1,0 +1,9 @@
+.mypy_cache/
+dist/
+*.egg-info/
+.pytest_cache/
+htmlcov/
+*.py[cod]
+.coverage
+venv/
+.venv/
